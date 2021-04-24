@@ -11,7 +11,7 @@ postgrest
 
 
 ## How to run
-1) create tables inside menu.sql and roles
+1) create tables and roles inside menu.sql
 
 ``` bash
 postgrest service.conf
